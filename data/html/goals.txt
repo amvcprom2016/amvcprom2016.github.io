@@ -1,0 +1,46 @@
+<h1>Goals</h1>
+<div class="panel panel-default">
+	<ul class="list-group">
+	  <li class="list-group-item  list-group-item-success"><span class="glyphicon glyphicon-star"></span> 24/08/2014 Get Solene's Facebook</li>
+	  <li class="list-group-item  list-group-item-success"><span class="glyphicon glyphicon-star"></span> 29/08/2014 Play less CS:GO</li>
+	  <li class="list-group-item  list-group-item-success"><span class="glyphicon glyphicon-star"></span> 01/09/2014 Tidy Wardrobe</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Learn equations for Physics<div class="progress"><div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">1/5</div></div></li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Learn ions for Chemistry</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Market a game</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Help more around the house</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Study 20 hours of French a week</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Do an interesting and in-depth EPQ</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Ask Solene to teach me French</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get Solene's Skype</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get Solene's Number</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Learn French</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Adjust to new sleep cycle</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Stop biting nails</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Start exercising</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Play basketball regularly</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Put on a bit weight and muscle</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Do extra work in spare time</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Start exercising</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Start programming again</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Write 10 blog posts</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Write 25 blog posts</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Write 50 blog posts</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Write 100 blog posts</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Write 250 blog posts</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Write 500 blog posts</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get an A* in AS Maths</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get an A* in AS Further Maths</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get an A* in AS Physics</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get an A* in AS Chemistry</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get an A* in EPQ</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get good AS levels</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get an A* in A2 Maths</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get an A* in A2 Further Maths</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get an A* in A2 Physics</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get an A* in A2 Chemistry</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get good A levels</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Do additional A levels</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Get into Cambridge university</li>
+	  <li class="list-group-item  list-group-item-warning"><span class="glyphicon glyphicon-star-empty"></span> Ask Solene to be my girlfriend</li>
+	</ul>
+</div>

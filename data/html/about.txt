@@ -1,0 +1,6 @@
+<h1>About</h1>
+<div class="panel panel-default">
+	This is a blog of how I Dylan Dhokia am trying to improve my quality of life in order to live better, and get to be with a girl, Solene Peroy. I went to stay at Oxford University for a week, a reward for doing well in the UKMT Maths Challenge. A week of lectures and expanding my mathematical knowledge. As well as opening me up to the many unseen applications of maths, I met a girl, who is the driving force behind this. She was born in France and moved to the UK when she was 2 years old. She speaks fluent french as her parents speak that at home, and went to a French school, Lycée français Charles de Gaulle, in which she was in one of the English classes, meaning they speak english when learning instead of french. Below is the group photo of the UKMT summer school. 
+	<div class="well well-sm"><img id="img" src="/data/img/ukmtphoto.png"></div>
+	This site with depict my challenges and achievements in my goal to improve myself, physically, mentally and intellectually. If you have come to this site, then you have either guessed the password to the protected page, or simply checked the javascript on that page and followed the urls. Either way, this is a personal venture which I may share at one point when I am ready.<a href="http://www.getdare.com/bbs/showthread.php?t=64839">Here</a>
+</div>
