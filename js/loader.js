@@ -1,13 +1,19 @@
 var v = 0;
-var curr = 100;
 var max = 5000;
+var curr = 0;
 
-function updateBar(){
+function update(c){
+	curr = c;
+	var raised = document.getElementById("raised");
+	raised.innerHTML = "&pound;"+curr+" raised!";
+	setTimeout(loadBar, 500);
+}
+
+function loadBar(){
 	var bar = document.getElementById("progressbar");
 	bar.setAttribute("aria-valuenow", v);
 	bar.setAttribute("style", "width:"+((100*curr)/max)+"%");
-	//if(v<curr)v++;
-	//console.log(v);
+	if(v<curr)v++;
 }
 
-setTimeout(updateBar, 100);
+update(100);
