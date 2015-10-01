@@ -1,11 +1,15 @@
 var v = 0;
-var max = 5000;
+var max = 1500;
 var curr = 0;
 
 function update(c){
 	curr = c;
 	var raised = document.getElementById("raised");
-	raised.innerHTML = "&pound;"+curr+" raised!";
+	if(c > 0){
+		raised.innerHTML = "&pound;"+curr+" raised!";
+	}else{
+		raised.innerHTML = "Nothing raised so far...";
+	}
 	setTimeout(loadBar, 500);
 }
 
@@ -16,4 +20,4 @@ function loadBar(){
 	if(v<curr)v++;
 }
 
-update(100);
+update(0);
