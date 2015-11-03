@@ -20,4 +20,4 @@ function loadBar(){
 	if(v<curr)v++;
 }
 
-update(0);
+update(81);
